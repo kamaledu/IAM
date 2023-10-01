@@ -34,7 +34,7 @@
 
 * ##### Now you can see a user has been created with the name test-user
 
-#### <ins>Create user group<ins>
+# <ins>Create user group<ins>
 
 * ##### This tutorial demonstrates creating user group using AWS management console
 
@@ -58,7 +58,7 @@
 
 ![alt text](images/13.png)
 
-* ##### <ins>Adding an user to user group that we created or existing user groups<ins>
+* # <ins>Adding an user to user group that we created or existing user groups<ins>
 
 * 1-> Select the group name
 
@@ -77,7 +77,7 @@
 
 ![alt text](images/16.png)
 
-* ##### <ins>Creating a IAM  Role using console<ins>
+* # <ins>Creating a IAM  Role using console<ins>
 
 * 1-> Select Roles and click on create Role
 
@@ -108,7 +108,7 @@
 
 ![alt text](images/23.png)
 
-* ##### <ins>Creating a custom IAM policy<ins>
+* # <ins>Creating a custom IAM policy<ins>
 
 * 1->Select policies
 * 2-> select Create policy
